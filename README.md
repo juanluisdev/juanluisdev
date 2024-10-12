@@ -18,7 +18,7 @@
 
 ### Meus projetos no Git são feitos com amor, carinho e um desejo enorme de melhorar as minhas habilidades.
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanluisdev&show_icons=true&theme=radical" alt="Juan GitHub stats" width="300"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanluisdev&layout=compact" alt="Top Langs" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=juanluisdev&show_icons=true&theme=radical" alt="Juan GitHub stats" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanluisdev&layout=compact" alt="Top Langs" width="50%">
 
 # Tecnologias que uso no dia à dia:
 
