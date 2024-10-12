@@ -5,6 +5,10 @@
 ### Linkedin 100% com publicações didaticas e funcionais!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-dev-oliveira/)👈👈👈
 
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/20990486-13d2-401e-8978-69d045f6cbe0" width="200px"/>
+</div>
+
 ### Comecei a programar em 2022 começando com PHP e ate hoje eu não consegui parar de amar essa profissão, até hoje produzo meus projetos sozinhos. De acordo como a empresa e alguns clientes me pedem uma solução eu me dedico e estudar e correr atras de uma forma para solucionar o problema.🦾
 ### Meu sonho e poder atuar com uma equipe de desenvolvimento para adquirir conhecimento e boas praticas na programação.🚀
 
