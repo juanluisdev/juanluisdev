@@ -50,3 +50,5 @@
 ## 🧠 Atualmente estou estudando Java Spring Boot + Angular na Dio em parceria com a DEAL em um BootCamp. 
 💡Obs: Estou Adorando essas tecnologias.💡<br/>
 💡Assim que pintar uma graninha vou fazer um curso de formação para Java💡<br/>
+
+# ![snake gif](https://github.com/juanluisdev/juanluisdev/blob/output/github-contribution-grid-snake.gif)
